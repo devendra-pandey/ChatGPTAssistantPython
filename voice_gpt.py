@@ -4,7 +4,7 @@ import speech_recognition as sr
 import time
 # import gTTs
 
-openai.api_key = "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"
+openai.api_key = "#####"
 
 engine = pyttsx3.init()
 
